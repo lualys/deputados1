@@ -9,7 +9,7 @@ Linguagem de Programação: Dart
 
 Instalação e Execução
 Clone o repositório do GitHub:
-git clone https://github.com/NatalioLeandro/Parliament.git
+git clone https://github.com/lualys/deputados1.git
 Navegue até o diretório do projeto:
 cd Parliament
 Instale as dependências:
